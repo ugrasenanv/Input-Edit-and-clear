@@ -1,0 +1,15 @@
+.example-form-field {
+  width: 200px;
+}
+
+.mat-icon {
+  background-repeat: no-repeat;
+  display: inline-block;
+  fill: currentColor;
+  height: 24px;
+  width: 24px;
+}
+
+.icon {
+  font-size: 36px;
+}
